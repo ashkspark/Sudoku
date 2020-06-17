@@ -1,1 +1,1 @@
-# Sudoku.mmm-
+# Sudoku
